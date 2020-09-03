@@ -1,4 +1,4 @@
-# PIMP-Python
+# PIMP-Python [![DOI](https://zenodo.org/badge/292594530.svg)](https://zenodo.org/badge/latestdoi/292594530)
 This repository contains a functionally equivalent reimplementation of the PIMP algorithm by Altmann et al. (https://academic.oup.com/bioinformatics/article/26/10/1340/193348) as found in the Vita library available for R (https://cran.r-project.org/web/packages/vita/index.html). 
 
 The aim is to evolve this reimplementation into a fully equivalent implementation of the original algorithm as proposed by Altmann et al., found at http://www.altmann.eu/documents/PIMP.R
