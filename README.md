@@ -7,4 +7,6 @@ The motivation for this reimplementation is given by the considerable speed adva
 
 Source code for the Vita version, Altmann's version and our own reimplementation is provided in this repository for ease of comparison. We have currently tested our own reimplementation with respect to the output provided by the Vita implementation on a small dataset, with an absolute tolerance for error of 1e-10, and have found that the outputs are functionally equivalent.
 
+Our implementation in Python requires Pandas, Numpy, Scipy, Scikit-learn and Statsmodels to work.
+
 This being said, THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
